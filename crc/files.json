@@ -1,5 +1,5 @@
 {
-    "EULA.rtf": "C4923720",
+    "EULA.rtf": "66A70CE1",
     "ffi.dll": "3CFC7B1",
     "libbz2.dll": "9CC4C71F",
     "libcrypto-3-x64.dll": "9E2522F2",
@@ -25,7 +25,7 @@
     "vcruntime140_1.dll": "BD5C744A",
     "zlib.dll": "D95E9C17",
     "zstd.dll": "5CCC9562",
-    "ZUpdater.exe": "9747CA31",
+    "ZUpdater.exe": "EACC54C0",
     "_brotli.pyd": "28369030",
     "_bz2.pyd": "9F02F98F",
     "_ctypes.pyd": "3C6FBB6A",
@@ -94,7 +94,7 @@
     "shiboken6\\Shiboken.pyd": "E5856960",
     "src\\donate.png": "A7792A7",
     "src\\logo.ico": "4C3A176E",
-    "src\\update_check.exe": "F963D3",
+    "src\\update_check.exe": "399D5F69",
     "zstandard\\backend_c.pyd": "DABA8656",
     "zstandard\\_cffi.pyd": "2B697C06"
 }
